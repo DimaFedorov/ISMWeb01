@@ -4,17 +4,17 @@
 
 .container {
   width: 580px;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .page {
   display: flex;
   flex-direction: column;
-  min-width: 640px;
+  min-width: 740px;
   min-height: 100vh;
   margin: 0;
   font-family: "Verdana", "Tahoma", sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 18px;
   color: #f2f2f2;
   background-color: #17161a;
@@ -48,10 +48,10 @@ a:focus {
 .page-header .container {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-image: url("img/raccoons.svg");
+  background-image: url("img/html_icon.svg");
   background-repeat: no-repeat;
   background-position: bottom right;
-  background-size: 290px 212px;
+  background-size: 270px 200px;
 }
 
 .page-header a {
