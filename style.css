@@ -6,7 +6,6 @@
   width: 580px;
   margin: auto;
 }
-
 .page {
   display: flex;
   flex-direction: column;
@@ -156,6 +155,6 @@ p.contacts-name {
 }
 
 .page-footer p {
-  margin: 0;
-  padding: 0;
+  margin: center;
+  padding: center;
 }
